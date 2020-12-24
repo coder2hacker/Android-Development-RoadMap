@@ -6,7 +6,14 @@
 
 This repository contains a complete roadmap for a beginner to start off with Android Application Development.
 
-## What is Android ?
+Table of Contents
+=================
+  * [What is Android](#what-is-android)
+  * [Tools and Frameworks used for Android Development](#tools-and-frameworks-used-for-android-development)
+  * [Getting Started](#getting-started)
+  * [Beginnning with native android development](#beginnning-with-native-android-development)
+
+## What is Android
 
 Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.
 
@@ -31,5 +38,33 @@ Android is a mobile operating system based on a modified version of the Linux ke
 1. Apart from all the points mentioned above, it is also important to have a great understanding of the Software Development principles and Component Based Software Engineering and Software testing which will help you develop great apps!
 
 
+## Beginnning with native android development
 
+### Which language to choose    
+  * [Kotlin](#java)
+  * [Java](#kotlin)
 
+### Kotlin
+
+#### Why kotlin ?
+  * Official language since 2019, Android is now Kotlin-first.
+  * Modern programming language with great features for faster development.
+  * 70% of top 1000 apps are developed in Kotlin.
+  * More than 60% of devs use Kotlin.
+  
+#### How to start ?
+  1. [Begin with kotlin basics](https://kotlinlang.org/)
+  2. [Practice in Kotlin Playground](https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMS4zLjcyIiwicGxhdGZvcm0iOiJqYXZhIiwiYXJncyI6IiIsImpzQ29kZSI6IiIsIm5vbmVNYXJrZXJzIjp0cnVlLCJ0aGVtZSI6ImlkZWEiLCJjb2RlIjoiLyoqXG4gKiBZb3UgY2FuIGVkaXQsIHJ1biwgYW5kIHNoYXJlIHRoaXMgY29kZS4gXG4gKiBwbGF5LmtvdGxpbmxhbmcub3JnIFxuICovXG5cbmZ1biBtYWluKCkge1xuICAgIHByaW50bG4oXCJIZWxsbywgd29ybGQhISFcIilcbn0ifQ==)
+  3. [Track your kotlin progress using Kotlin koans](https://play.kotlinlang.org/koans/Introduction/Hello,%20world!/Task.kt)
+  4. [Begin with new to programming track of google android](https://developer.android.com/courses/study-jams?utm_source=studyjam&utm_medium=event&utm_campaign=studyjams)
+  
+#### Motivation 
+[Google Developer Profile](https://google.dev/u/me?utm_source=developer.android.com)
+
+You can earn badges completing android development using kotlin from google codelabs.
+
+### Java
+  
+#### How to follow java ?
+  1. [Android Fundamental](https://developer.android.com/courses/fundamentals-training/overview-v2)
+  2. [Advanced Android Development](https://developer.android.com/courses/advanced-training/overview)
