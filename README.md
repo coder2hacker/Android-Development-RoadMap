@@ -41,8 +41,8 @@ Android is a mobile operating system based on a modified version of the Linux ke
 ## Beginnning with native android development
 
 ### Which language to choose    
-  * [Kotlin](#java)
-  * [Java](#kotlin)
+  * [Kotlin](#kotlin)
+  * [Java](#java)
 
 ### Kotlin
 
