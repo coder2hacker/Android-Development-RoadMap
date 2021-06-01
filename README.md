@@ -27,9 +27,9 @@ Android is a mobile operating system based on a modified version of the Linux ke
 
 ## Getting Started
 
-1. Before getting into the actual development of applications, it is really important to get the fundamentals right. That is, it is important to undertand how android works and the fundamentals of applications. Read [this](https://developer.android.com/guide/components/fundamentals) article to know more.
+1. Before getting into the actual development of applications, it is really important to get the fundamentals right. That is, it is important to understand how android works and the fundamentals of applications. Read [this](https://developer.android.com/guide/components/fundamentals) article to know more.
 1. After having understood the fundamentals of applications, it is important to understand the Activity Lifecycle. Head over to [this](https://developer.android.com/guide/components/activities/activity-lifecycle) article to know more.
-1. Now that you have clear idea about how apps actually work, it is crucial to explore and select the development tools and framework of your choice. Go through the aforementioned tools and frameworks used in the field of android development and make your choice.
+1. Now that you have a clear idea about how apps actually work, it is crucial to explore and select the development tools and framework of your choice. Go through the aforementioned tools and frameworks used in the field of android development and make your choice.
 1. Make your Hello World App, which is a simple app that has a single screen displaying the text "Hello, World!". 
 1. It is really important to try out some basic applications at first such as Calculator and To-do list app so that you make your fundamentals strong and also get familiarized with the intricacies of the development environment. 
 1. Slowly pick up pace and start building some medium level apps such as Weather App, Quiz app or a News app where you get to learn about how to work with APIs.
